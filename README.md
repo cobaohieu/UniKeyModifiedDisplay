@@ -56,4 +56,4 @@ UniKey được phát triển bởi Phạm Kim Long. Website chính thức duy n
 
 ### <hr>Thanks for
 1. <a href="http://unikey.org"></a> Phạm Kim Long
-2. <a href="https://google.com></a> Someone with source icon on the internet
+2. <a href="https://google.com"></a> Someone with source icon on the internet
