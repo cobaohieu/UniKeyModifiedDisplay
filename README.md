@@ -20,6 +20,8 @@ It based on  UniKey 4.3 Release by Phạm Kim Long http://unikey.org/
 - Do not insert malicious code & virus
 - Not completely personalized.
 
+# Download <a href="https://github.com/southernvevo/UniKeyModifiedDisplay/releases">releases</a>
+
 # About UniKey
 UniKey for Windows was first released as a free program in 1999. It quickly gained popularity thanks to its speed, simplicity, and reliability. It soon became, and still is the most popular keyboard program for Vietnamese language. Today, UniKey can be found in almost every Windows PC of Vietnamese people.
 
@@ -44,6 +46,8 @@ Gắn chữ ký điện tử có chứng thực trong chương trình UniKeyNT.e
 - Cải tiến tính năng gõ tắt:
  + Tăng kích thước tối đa bảng gõ tắt lên 8000 mục.
  + Thêm tùy chọn bật/tắt tính năng tự động đổi chữ hoa/thường khi gõ tắt.
+
+# Download <a href="https://github.com/southernvevo/UniKeyModifiedDisplay/releases">releases</a>
  
 # Giới thiệu UniKey
 UniKey được công bố lần đầu tiên vào năm 1999. Ngay từ khi ra đời, UniKey đã được người dùng đón nhận rất tích cực nhờ tính đơn giản, tiện dụng, tốc độ, tin cậy. UniKey nhanh chóng trở thành chương trình gõ tiếng Việt tốt nhất, phổ biến nhất trên Windows. Hiện nay UniKey có mặt hầu như trên tất cả các máy tính chạy Windows của người Việt.
