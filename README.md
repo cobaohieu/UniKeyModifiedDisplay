@@ -1,4 +1,4 @@
-### English Version
+### <hr>English Version
 # UniKey Modified Display Version Version 4.3 RC1
 It based on  UniKey 4.3 Release by Phạm Kim Long http://unikey.org/
 
