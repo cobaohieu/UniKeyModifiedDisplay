@@ -53,3 +53,7 @@ UniKey Vietnamese Input Method, module chính xử lý tiếng Việt (gồm cá
 Từ năm 2006, tác giả UniKey đã cho phép Apple dùng source code x-unikey trong các sản phẩm của Apple theo các điều khoản của giấy phép The MIT license. Từ phiên bản Tiger, bộ gõ tiếng Việt có sẵn trên Mac OS X đã bắt đầu dùng lõi UniKey. Đến năm 2010, phiên bản iOS 4.0 cũng tích hợp lõi UniKey. Đến nay tất cả các thiết bị iPhone, iPad đều đang sử dụng UniKey cho bộ gõ tiếng Việt có sẵn.
 
 UniKey được phát triển bởi Phạm Kim Long. Website chính thức duy nhất của UniKey là http://unikey.org. Tác giả không chịu trách nhiệm về bất cứ website nào khác cung cấp các phần mềm UniKey.
+
+### <hr>Thanks for
+1. <a href="http://unikey.org"></a> Phạm Kim Long
+2. <a href="https://google.com></a> Someone with source icon on the internet
