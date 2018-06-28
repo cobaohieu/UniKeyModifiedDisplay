@@ -29,7 +29,7 @@ From Mac OS X Leopard, released in 2007, Apple has integrated UniKey Vietnamese 
 
 UniKey is developed by Pham Kim Long. The officical website of UniKey is unikey.org. I’m not responsible for any other sites that offer UniKey software. I don’t recommend downloading UniKey from those websites.
 
-### Vietnamese Version
+### <hr>Vietnamese Version
 # UniKey Modified Display Version Version 4.3 RC1
 Bản chỉnh sửa dựa trên bản gốc của tác giả Phạm Kim Long trên trang chính thức http://unikey.org/
 
